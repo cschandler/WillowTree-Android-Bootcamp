@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Weather</string>
+    <string name="title_activity_forecast">Forecast</string>
+    <string name="api_key">a1a320ea2ec613869db7cacc888eeda5</string>
+    <string name="view_forecast">VIEW FORECAST</string>
+    <string name="enter_your_zipcode">Enter your zipcode</string>
+</resources>
